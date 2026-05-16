@@ -8,19 +8,29 @@
 
 <div align="center">
   <p align="center">
-    <b>A passionate developer transforming ideas into scalable, real-world solutions. <br> Specializing in Full-Stack Web Development, AI Integrations, and cutting-edge Cloud Architectures.</b>
+    <b>Building scalable full-stack applications and integrating AI into the web.</b><br>
+    Actively looking for Full-Stack / Backend Engineering roles.
   </p>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/vigneshwaran70/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:vigneshwaran2502@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Building_Awesome_Things-00F0FF?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Open_To_Work-00F0FF?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
   </p>
 </div>
+
+<br/>
+
+## 👤 About Me
+I'm a Full-Stack Engineer who specializes in building real-world SaaS platforms and AI-driven applications. I don't just build UI—I architect systems from the ground up, including databases, REST APIs, and cloud deployments. 
+
+- 🛠 **What I do:** I build robust backend services in Node.js/Express and Python (FastAPI), scalable frontends in React, and deploy them on Google Cloud Run and Docker.
+- 🎯 **What I'm looking for:** I'm currently seeking a full-time role where I can build impactful products and tackle complex engineering challenges.
+- 🚀 **Currently Building:** *SmartVendor AI*, a B2B retail intelligence platform for street vendors.
 
 <br/>
 
@@ -36,44 +46,23 @@
 
 ## 🌌 Featured Innovations
 
-<table align="center" style="border: none; width: 100%;">
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <h3 align="center">🛒 SmartVendor AI</h3>
-      <p align="center"><b>Retail Intelligence Platform</b></p>
-      <p align="center"><i>AI demand prediction, group-buying algorithms, and voice-ordering capabilities designed for street vendors.</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <h3 align="center">⚖️ Fair Sight</h3>
-      <p align="center"><b>AI Fairness Auditing</b></p>
-      <p align="center"><i>End-to-end fairness auditing platform for ML datasets. Visualizes bias metrics and generates comprehensive reports.</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </p>
-    </td>
-  </tr>
-</table>
+I focus on quality over quantity. Here are the core projects I've built and deployed:
+
+### 🛒 SmartVendor AI — B2B Retail Intelligence Platform
+*A full-stack SaaS platform providing enterprise-grade intelligence to street vendors.*
+- **My Role:** Architected the complete system (Frontend, Backend, Database).
+- **Impact:** Developed an AI demand prediction engine, a supplier optimization algorithm, and integrated voice-ordering capabilities.
+- **Tech Stack:** Node.js, Express, React, Google Cloud Run, Docker.
+- **Links:** 🔗 [GitHub Repository](https://github.com/Vigneshwaran2502/SmartVendor-AI) *(Make sure to update this link if the repo name is different)*
+
+### ⚖️ Fair Sight — AI Fairness Auditing Tool
+*An end-to-end fairness auditing platform for Machine Learning datasets.*
+- **My Role:** Developed the backend data-processing engine and frontend visualization.
+- **Impact:** Built a pipeline that accepts CSV uploads, runs demographic fairness analysis using Pandas, and visualizes bias metrics into actionable reports.
+- **Tech Stack:** Python, Pandas, FastAPI, React.
+- **Links:** 🔗 [GitHub Repository](https://github.com/Vigneshwaran2502/Fair_sight) *(Make sure to update this link if the repo name is different)*
 
 <br/>
-
-## 📊 Developer Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vigneshwaran2502&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" height="190"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwaran2502&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" height="190"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshwaran2502&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF" />
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer"/>
