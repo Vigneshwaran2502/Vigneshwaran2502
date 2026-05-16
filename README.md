@@ -1,69 +1,107 @@
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
+
+<!-- TYPING INTRO -->
 <div align="center">
-  <img src="banner.png" alt="Cyberpunk Banner" width="100%" height="250" style="border-radius: 15px; object-fit: cover;"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vigneshwaran+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+Web+Enthusiast;Open+to+Remote+%26+Freelance)](https://github.com/Vigneshwaran2502)
+
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=HI,+I'M+VIGNESHWARAN+R;FULL-STACK+ARCHITECT;AI+INTEGRATION+EXPERT;WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Typing SVG" />
-</h1>
+---
 
+<!-- ABOUT -->
+CSE student and full-stack developer who builds web apps and AI-powered tools that actually solve things — not just look good in a portfolio.
+
+I work with the MERN stack, Python, and Java. Comfortable from database design to UI, and pushing into AI integrations. Currently hunting for **remote opportunities and freelance projects**.
+
+---
+
+## 🛠️ Tech Stack
+
+<!-- SKILL ICONS — auto-renders as icons grid -->
 <div align="center">
-  <p align="center">
-    <b>Building scalable full-stack applications and integrating AI into the web.</b><br>
-    Actively looking for Full-Stack / Backend Engineering roles.
-  </p>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/vigneshwaran70/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:vigneshwaran2502@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-Open_To_Work-00F0FF?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
-  </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,mongodb,mysql,html,css,tailwind,git,github,vscode,postman,docker,gcp&theme=dark&perline=9)](https://skillicons.dev)
+
 </div>
 
-<br/>
+---
 
-## 👤 About Me
-I'm a Full-Stack Engineer who specializes in building real-world SaaS platforms and AI-driven applications. I don't just build UI—I architect systems from the ground up, including databases, REST APIs, and cloud deployments. 
-
-- 🛠 **What I do:** I build robust backend services in Node.js/Express and Python (FastAPI), scalable frontends in React, and deploy them on Google Cloud Run and Docker.
-- 🎯 **What I'm looking for:** I'm currently seeking a full-time role where I can build impactful products and tackle complex engineering challenges.
-- 🚀 **Currently Building:** *SmartVendor AI*, a B2B retail intelligence platform for street vendors.
-
-<br/>
-
-## 🛸 Core Technologies
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,pandas,fastapi,docker,gcp,git,github,html,css,tailwind&theme=dark&perline=8" />
-  </a>
-</p>
-
-<br/>
-
-## 🌌 Featured Innovations
-
-I focus on quality over quantity. Here are the core projects I've built and deployed:
-
-### 🛒 SmartVendor AI — B2B Retail Intelligence Platform
-*A full-stack SaaS platform providing enterprise-grade intelligence to street vendors.*
-- **My Role:** Architected the complete system (Frontend, Backend, Database).
-- **Impact:** Developed an AI demand prediction engine, a supplier optimization algorithm, and integrated voice-ordering capabilities.
-- **Tech Stack:** Node.js, Express, React, Google Cloud Run, Docker.
-- **Links:** 🔗 [GitHub Repository](https://github.com/Vigneshwaran2502/SmartVendor-AI) *(Make sure to update this link if the repo name is different)*
-
-### ⚖️ Fair Sight — AI Fairness Auditing Tool
-*An end-to-end fairness auditing platform for Machine Learning datasets.*
-- **My Role:** Developed the backend data-processing engine and frontend visualization.
-- **Impact:** Built a pipeline that accepts CSV uploads, runs demographic fairness analysis using Pandas, and visualizes bias metrics into actionable reports.
-- **Tech Stack:** Python, Pandas, FastAPI, React.
-- **Links:** 🔗 [GitHub Repository](https://github.com/Vigneshwaran2502/Fair_sight) *(Make sure to update this link if the repo name is different)*
-
-<br/>
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer"/>
+
+| Project | What It Does | Stack |
+|--------|-------------|-------|
+| [🛒 VendorMate](https://github.com/Vigneshwaran2502/Vendormate) | AI platform for street vendors — group buying, voice orders, offline mode, stock alerts | Node.js · Express · GCP |
+| [⚖️ Fair Sight](https://github.com/Vigneshwaran2502/Vigneshwaran2502) | ML fairness auditing tool — upload dataset, get bias metrics + full report | Python · Pandas · React |
+| [🌿 EcoSense](https://github.com/Vigneshwaran2502/ecosense-live) | Real-time environmental monitoring dashboard with live data visualization | TypeScript · React |
+
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vigneshwaran2502&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwaran2502&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vigneshwaran2502&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vigneshwaran2502&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📌 Currently Working On
+
+- 🤖 AI recommendations & analytics module for VendorMate
+- 📚 Advanced DSA & System Design fundamentals  
+- 🌍 Contributing to open-source projects
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshwaran70)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshwaran7002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vigneshwaran2502)
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+[![Vigneshwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vigneshwaran2502&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- PROFILE VIEWS COUNTER -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vigneshwaran2502&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer"/>
