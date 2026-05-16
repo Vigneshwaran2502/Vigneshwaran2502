@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="banner.png" alt="Cyberpunk Banner" width="100%" style="border-radius: 15px;"/>
+  <img src="banner.png" alt="Cyberpunk Banner" width="100%" height="250" style="border-radius: 15px; object-fit: cover;"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=HI,+I'M+VIGNESHWARAN+S;FULL-STACK+ARCHITECT;AI+INTEGRATION+EXPERT;WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=80&lines=HI,+I'M+VIGNESHWARAN+R;FULL-STACK+ARCHITECT;AI+INTEGRATION+EXPERT;WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Typing SVG" />
 </h1>
 
 <div align="center">
