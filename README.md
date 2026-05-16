@@ -46,14 +46,14 @@ I work with the MERN stack, Python, and Java. Comfortable from database design t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vigneshwaran2502&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vigneshwaran2502&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwaran2502&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=C9D1D9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vigneshwaran2502&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vigneshwaran2502&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE&v=1)](https://git.io/streak-stats)
 
 </div>
 
